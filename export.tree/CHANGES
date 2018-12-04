@@ -1,0 +1,5 @@
+1.0.0 2017-06-20
+- Initial release.
+- Field maps not included. Addition metadata needs to be tracked down.
+- DICOMS not available at the time of initial release.
+
