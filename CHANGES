@@ -1,3 +1,5 @@
+1.0.2 2020-01-27
+  - OpenNeuro maintenance 
 1.0.1	2018-12-04
 
 	- Adding DOI
@@ -6,4 +8,3 @@
 - Initial release.
 - Field maps not included. Addition metadata needs to be tracked down.
 - DICOMS not available at the time of initial release.
-
